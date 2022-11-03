@@ -6,8 +6,6 @@
 
 I'm a software developer currently based in Hyderabad, India. I love to learn programming and traveling.
 
-The tech stack I’m currently working with is JavaScript, TypeScript, Node, GraphQL, React, Angular. I have experience in MySQL, MongoDB, Redis, ELK stack.
-I like to practice SOLID principles, Test-driven development (TDD), careful organization of system design in my daily coding challenges.
+I am an open-source enthusiast and maintainer. 
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing 
-happened through open-source. If you’d like to discuss with me, send me a message to sudhakar.jonna4@protonmail.com.
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
