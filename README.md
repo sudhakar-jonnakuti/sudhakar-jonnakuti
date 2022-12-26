@@ -4,8 +4,8 @@
 
 <br />
 
-I'm a software developer currently based in Hyderabad, India. I love to learn programming and traveling.
+I'm a software developer currently based in Hyderabad, India.
 
-I am an open-source enthusiast and maintainer. 
+I learn and practise front-end and back-end technologies, concentrating mainly on JavaScript, TypeScript, Node.js, and Angular.
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Practicing helps me sharpen my technical skills and stay in touch with software technology progress.
