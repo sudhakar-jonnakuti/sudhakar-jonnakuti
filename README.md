@@ -4,6 +4,6 @@
 
 I'm a software developer currently based in Hyderabad, India.
 
-I learn and practise front-end and back-end technologies, concentrating mainly on JavaScript, TypeScript, Node.js, and Angular.
+I building scalable systems with TypeScript • Node • Angular • Alpine • OpenAPI • SQL • NoSQL • Redis • Docker
 
 Practicing helps me sharpen my technical skills and stay in touch with software technology progress.
