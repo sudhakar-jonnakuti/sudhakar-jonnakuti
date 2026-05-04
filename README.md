@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sudhakar
 
-🚀 Senior Software Engineer building scalable, high-performance web applications across Telecom and FinTech domains.
+🚀 Software Engineer building scalable, high-performance web applications across Telecom and FinTech domains.
 
 📍 Based in Hyderabad, India  
 
