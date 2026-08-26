@@ -1,19 +1,16 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sudhakar
+```
+> npx sudhakar jonnakuti --info
 
-🚀 Software Engineer building scalable, high-performance web applications across Telecom and FinTech domains.
+user → sudhakar jonnakuti
 
-📍 Based in Hyderabad, India  
+  ✓ open source ecosystems
+  ✓ accessibility & performance
+  ✓ developer experience & tooling
 
----
+work → senior software enginee @ concentrix catalyst
 
-## 💡 About Me
-
-I specialize in designing and developing scalable frontend and backend systems using modern JavaScript/TypeScript ecosystems.
-
-🔹 Expert in **React** (Zustand, TanStack Query, React Hook Form)  
-🔹 Strong experience in **Angular** (Standalone Components, Signals)  
-🔹 Backend development with **Node.js, Express, Microservices**  
-🔹 Worked on high-scale authentication systems (**JWT, OAuth2, MFA**)  
-🔹 Experience with **Micro Frontends & Nx Monorepo architecture**  
-🔹 Event-driven systems using **Kafka**  
-🔹 Experience with **Drizzle ORM** and **Mongoose** for efficient database management 
+domain → web applications across telecom & fintech domains
+```
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudhakar-jonnakuti"/>
+</div>
